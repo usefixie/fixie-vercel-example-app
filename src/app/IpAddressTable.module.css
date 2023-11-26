@@ -1,0 +1,30 @@
+.warning {
+  text-align: center;
+  background-color: #FFF500;
+  border-radius: 0.5rem;
+}
+
+.warning p {
+  margin: 1rem;
+}
+
+.table {
+  background: #ffffff;
+  border: 1px solid #eeeeee;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.table td,
+.table th {
+  padding: 0.5rem;
+  font-weight: normal;
+}
+
+.table td {
+  text-align: left;
+}
+
+.table th {
+  text-align: right;
+}
