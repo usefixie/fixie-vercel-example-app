@@ -11,6 +11,10 @@ If you do not already have a Fixie account, you can [sign up](https://app.usefix
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fusefixie%2Ffixie-vercel-example-app&integration-ids=oac_v27tv71yuSgMkh9aNOEbmBdw)
 
+After deploying the project, use the [Fixie Dashboard](https://app.usefixie.com) to provision a proxy for your new project. When you do so, the Fixie integration will automatically set the FIXIE_URL environment variable on your Vercel Project.
+
+Finally, trigger a redeploy of the project so that it will use the new FIXIE_URL environment variable.
+
 ## Run Locally
 
 ```bash
