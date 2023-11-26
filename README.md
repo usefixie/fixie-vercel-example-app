@@ -9,7 +9,7 @@ If you do not already have a Fixie account, you can [sign up](https://app.usefix
 
 ## Deploy to Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fusefixie%2Ffixie-vercel-example-app&integration-ids=icfg_seuzCBOdh1Z7SyY8VfbQ619A)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fusefixie%2Ffixie-vercel-example-app&integration-ids=oac_v27tv71yuSgMkh9aNOEbmBdw)
 
 ## Run Locally
 
